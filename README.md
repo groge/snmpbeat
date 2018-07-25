@@ -1,2 +1,6 @@
 # snmpbeat
-Elastic beat for SNMP (by isalgueiro/otilio)
+Elastic beat for SNMP 
+
+Copied from https://github.com/isalgueiro/otilio.git
+
+
